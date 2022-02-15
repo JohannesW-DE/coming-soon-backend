@@ -18,8 +18,8 @@ GOOGLE_ID=[Twitter OAuth ID]
 GOOGLE_SECRET=[Google OAuth Secret]
 GOOGLE_CALLBACK=[{Backend host}/auth/google/callback]
 
-GITHUB_ID=[Github OAuth ID]
-GITHUB_SECRET=[Github OAuth Secret]
+GITHUB_ID=[GitHub OAuth ID]
+GITHUB_SECRET=[GitHub OAuth Secret]
 GITHUB_CALLBACK=[{Backend host}/auth/github/callback]
 
 SUCCESS_REDIRECT=[{Frontend host}/coming-soon]
